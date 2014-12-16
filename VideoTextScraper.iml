@@ -9,7 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-sdk-2.11.2" level="application" />
     <orderEntry type="library" name="Maven: org.jcodec:jcodec:0.1.3" level="project" />
@@ -26,7 +26,7 @@
     <orderEntry type="module-library">
       <library name="Maven: sun.plugin:plugin:1.6">
         <CLASSES>
-          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/plugin.jar!/" />
+          <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/plugin.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -42,5 +42,6 @@
     <orderEntry type="library" name="Maven: org.clapper:grizzled-scala_2.11:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-async_2.11:0.9.1" level="project" />
     <orderEntry type="library" name="Maven: jline:jline:2.6" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.11.4" level="application" />
   </component>
 </module>
