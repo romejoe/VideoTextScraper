@@ -37,5 +37,10 @@
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.6" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1" level="project" />
     <orderEntry type="library" name="Maven: jmxflib:jmxflib:0.0.11" level="project" />
+    <orderEntry type="library" name="Maven: org.clapper:argot_2.11:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.11.1" level="project" />
+    <orderEntry type="library" name="Maven: org.clapper:grizzled-scala_2.11:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-async_2.11:0.9.1" level="project" />
+    <orderEntry type="library" name="Maven: jline:jline:2.6" level="project" />
   </component>
 </module>
